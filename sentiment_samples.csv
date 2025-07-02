@@ -1,0 +1,51 @@
+Text,Manual Sentiment
+"I love this product! It exceeded my expectations.",Positive
+"This is the worst experience I’ve ever had.",Negative
+"The service was okay not great but not terrible either.",Neutral
+"Absolutely fantastic! Highly recommend to everyone.",Positive
+"I don’t think I’ll be buying from here again.",Negative
+"Product arrived late but in good condition.",Neutral
+"Five stars! Amazing quality and great value.",Positive
+"I’m very disappointed with this purchase.",Negative
+"It works as expected. Nothing more, nothing less.",Neutral
+"Blown away by the customer service, thank you!",Positive
+"It stopped working after two days. Very frustrated.",Negative
+"The color is slightly off, but it still looks fine.",Neutral
+"One of the best purchases I’ve made this year.",Positive
+"Terrible. Do not waste your money.",Negative
+"No strong feelings either way.",Neutral
+"Super happy with how everything turned out.",Positive
+"Could be better. Could be worse.",Neutral
+"Poor build quality and terrible support.",Negative
+"Just perfect. Exactly what I needed.",Positive
+"It’s okay. Not exactly what I wanted, but usable.",Neutral
+"Wouldn't recommend it to anyone. Awful.",Negative
+"Exceeded all my expectations. Incredible!",Positive
+"Not impressed, especially for the price.",Negative
+"The packaging was nice.",Neutral
+"A great deal for what you get. I’m impressed.",Positive
+"There’s nothing special about it.",Neutral
+"Customer support was rude and unhelpful.",Negative
+"This made my day!",Positive
+"Mediocre at best.",Negative
+"Worst decision ever.",Negative
+"Decent product for a fair price.",Neutral
+"I didn’t expect much, and that’s what I got.",Negative
+"It broke after one use. Really bad.",Negative
+"I’m beyond satisfied.",Positive
+"It’s fine, just not amazing.",Neutral
+"Refund process was a nightmare.",Negative
+"I’m thrilled with how well it works.",Positive
+"Nothing about this stands out.",Neutral
+"Garbage. Doesn’t work at all.",Negative
+"A pleasant surprise—better than I thought!",Positive
+"I’ll never shop here again.",Negative
+"It’s alright. Gets the job done.",Neutral
+"Super helpful and friendly team.",Positive
+"Not what I expected. Disappointed.",Negative
+"Everything went smoothly. No complaints.",Positive
+"Bland and uninspiring.",Negative
+"Couldn’t be happier with the results.",Positive
+"Instructions were confusing and unclear.",Negative
+"Nothing wrong, but nothing exciting either.",Neutral
+"This was a fantastic experience from start to finish.",Positive

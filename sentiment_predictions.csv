@@ -1,0 +1,51 @@
+Text,Manual Sentiment,Predicted Sentiment,Confidence Score
+I love this product! It exceeded my expectations.,Positive,Positive,0.9899765849113464
+This is the worst experience I’ve ever had.,Negative,Negative,0.952107310295105
+The service was okay not great but not terrible either.,Neutral,Positive,0.6347582340240479
+Absolutely fantastic! Highly recommend to everyone.,Positive,Positive,0.9823974370956421
+I don’t think I’ll be buying from here again.,Negative,Negative,0.8083452582359314
+Product arrived late but in good condition.,Neutral,Positive,0.7189483642578125
+Five stars! Amazing quality and great value.,Positive,Positive,0.977762758731842
+I’m very disappointed with this purchase.,Negative,Negative,0.931553840637207
+"It works as expected. Nothing more, nothing less.",Neutral,Neutral,0.6274614930152893
+"Blown away by the customer service, thank you!",Positive,Positive,0.9516752362251282
+It stopped working after two days. Very frustrated.,Negative,Negative,0.917667806148529
+"The color is slightly off, but it still looks fine.",Neutral,Positive,0.5593367218971252
+One of the best purchases I’ve made this year.,Positive,Positive,0.9850274324417114
+Terrible. Do not waste your money.,Negative,Negative,0.9309833645820618
+No strong feelings either way.,Neutral,Neutral,0.6129032969474792
+Super happy with how everything turned out.,Positive,Positive,0.9865936040878296
+Could be better. Could be worse.,Neutral,Neutral,0.4669473469257355
+Poor build quality and terrible support.,Negative,Negative,0.9344411492347717
+Just perfect. Exactly what I needed.,Positive,Positive,0.9790504574775696
+"It’s okay. Not exactly what I wanted, but usable.",Neutral,Positive,0.6068976521492004
+Wouldn't recommend it to anyone. Awful.,Negative,Negative,0.9303624033927917
+Exceeded all my expectations. Incredible!,Positive,Positive,0.9777849912643433
+"Not impressed, especially for the price.",Negative,Negative,0.9012548327445984
+The packaging was nice.,Neutral,Positive,0.9527581930160522
+A great deal for what you get. I’m impressed.,Positive,Positive,0.9821248054504395
+There’s nothing special about it.,Neutral,Negative,0.5969433784484863
+Customer support was rude and unhelpful.,Negative,Negative,0.9177308678627014
+This made my day!,Positive,Positive,0.9871131777763367
+Mediocre at best.,Negative,Negative,0.7487942576408386
+Worst decision ever.,Negative,Negative,0.9254720211029053
+Decent product for a fair price.,Neutral,Positive,0.9373756051063538
+"I didn’t expect much, and that’s what I got.",Negative,Negative,0.530781090259552
+It broke after one use. Really bad.,Negative,Negative,0.9146258234977722
+I’m beyond satisfied.,Positive,Positive,0.9774706363677979
+"It’s fine, just not amazing.",Neutral,Negative,0.6231191158294678
+Refund process was a nightmare.,Negative,Negative,0.8991448879241943
+I’m thrilled with how well it works.,Positive,Positive,0.9890403747558594
+Nothing about this stands out.,Neutral,Negative,0.7962077856063843
+Garbage. Doesn’t work at all.,Negative,Negative,0.9256531000137329
+A pleasant surprise—better than I thought!,Positive,Positive,0.9867559671401978
+I’ll never shop here again.,Negative,Negative,0.9026674628257751
+It’s alright. Gets the job done.,Neutral,Positive,0.4772980213165283
+Super helpful and friendly team.,Positive,Positive,0.9712896347045898
+Not what I expected. Disappointed.,Negative,Negative,0.8943805694580078
+Everything went smoothly. No complaints.,Positive,Positive,0.9216493368148804
+Bland and uninspiring.,Negative,Negative,0.8630949258804321
+Couldn’t be happier with the results.,Positive,Positive,0.9844954609870911
+Instructions were confusing and unclear.,Negative,Negative,0.726703405380249
+"Nothing wrong, but nothing exciting either.",Neutral,Neutral,0.4654385447502136
+This was a fantastic experience from start to finish.,Positive,Positive,0.9874370098114014
